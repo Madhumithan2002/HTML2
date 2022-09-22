@@ -1,0 +1,13 @@
+p{
+    background-color: skyblue;
+    border: 6px;
+    border-color: #8a2be2;
+    border: solid;
+}
+h1,h2,h3{
+    color: blue;
+    margin-left:60px;
+    border: 5px;    
+    border: dotted; 
+    border-radius: 50px;    
+      padding: 50px                                                                                                                                                                                                                 

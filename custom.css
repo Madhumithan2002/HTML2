@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: aqua;
+}
+p{
+    border-style: solid;
+    background-color: red;
+    align-items: center;
+    display:inline-block;
+    word-spacing: 10px ;color: aliceblue;
+    font-size: large;
+    
+}
